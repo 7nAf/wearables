@@ -1,0 +1,29 @@
+{
+  "Patient": {
+    "UniqueID": "WH555444",
+    "Name": {
+      "LastName": "Doe",
+      "FirstName": "John",
+      "Middle": "Frank"
+    },
+    "IntakeCriteria": {
+      "DmDxDate": "2012/03/12",
+      "InitialHgbA1c": "6.5",
+      "CoMorbid": [ "Hypertension", "CAD" ]
+    },
+    "Labs": {
+      "LDLCholestrol": {
+        "LDLLevel": "122.5",
+        "LDLResultDate": "2012/07/06"
+      },
+      "SerumCreatinine": {
+        "CreatinineLevel": "1.4",
+        "CreatinineResultDate": "12/07/08"
+      }
+    },
+    "CareLocation": {
+      "FacilityName": "East Side Clinic",
+      "ContactEmail": "rsnurse@eastside.org"
+    }
+  }
+}

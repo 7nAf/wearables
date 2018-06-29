@@ -1,0 +1,32 @@
+[ {
+  "Hour" : "00",
+  "Pulse(avg)" : "73",
+  "Blood Pressure(avg)" : "140",
+  "Sunlight Index" : "35",
+  "sweat index" : "0"
+}
+,
+{
+  "Hour" : "06",
+  "Pulse(avg)" : "71",
+  "Blood Pressure(avg)" : "142",
+  "Sunlight Index" : "63.3",
+  "sweat index" : "11"
+}
+,
+{
+  "Hour" : "12",
+  "Pulse(avg)" : "77",
+  "Blood Pressure(avg)" : "137",
+  "Sunlight Index" : "109",
+  "sweat index" : "34"
+}
+,
+{
+  "Hour" : "18",
+  "Pulse(avg)" : "72",
+  "Blood Pressure(avg)" : "120",
+  "Sunlight Index" : "45",
+  "sweat index" : "7"
+}
+ ]
