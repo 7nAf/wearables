@@ -38,7 +38,23 @@
           <form action="https://localhost/api/addRecord/post" method="post">
         <input type="hidden" name="user" value="1" />
         <input type="hidden" name="wallet" value="0xab0393bb61136f44789bda9c057ec75a2564c6f9" />
-        <input type="hidden" name="data" value="hl7" />
+        <input type="hidden" name="data" value="[ {
+  "Doctor" : "1",
+  "Pulse(avg)" : "73",
+  "Blood Pressure(avg)" : "140",
+  "Sunlight Index" : "35",
+  "Date" : "01-02-2018",
+}
+,
+{
+  "Doctor" : "06",
+  "Pulse(avg)" : "71",
+  "Blood Pressure(avg)" : "142",
+  "Sunlight Index" : "63.3",
+  "Date" : "11-03-2018",
+}
+
+ ]" />
 
     <i class="fa fa-money"></i>
     <button class="nav-link-text"> Opto Wallet</button></form>
